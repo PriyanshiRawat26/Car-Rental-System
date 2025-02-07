@@ -2,7 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class people {
+
+class jktyres {
     private String carId;
     private String brand;
     private String model;
