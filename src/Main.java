@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 
 
-class Tyre {
+class hrllo {
     private String carId;
     private String brand;
     private String model;
