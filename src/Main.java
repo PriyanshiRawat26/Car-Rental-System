@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 
 
-class jktyres {
+class Tyre {
     private String carId;
     private String brand;
     private String model;
